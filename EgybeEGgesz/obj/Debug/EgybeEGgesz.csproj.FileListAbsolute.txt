@@ -1,0 +1,31 @@
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.exe.config
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.exe
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.pdb
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.AssemblyReference.cache
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.Form1.resources
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.Properties.Resources.resources
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.GenerateResource.cache
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.CoreCompileInputs.cache
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.exe
+C:\Users\This dude\source\repos\EgybeEGgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.pdb
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.exe.config
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.exe
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.pdb
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.AssemblyReference.cache
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.Form1.resources
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.Properties.Resources.resources
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.GenerateResource.cache
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.CoreCompileInputs.cache
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.exe
+C:\Users\This dude\source\repos\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.pdb
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.exe.config
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.exe
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\bin\Debug\EgybeEGgesz.pdb
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.AssemblyReference.cache
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.SuggestedBindingRedirects.cache
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.Form1.resources
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.Properties.Resources.resources
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.GenerateResource.cache
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.csproj.CoreCompileInputs.cache
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.exe
+C:\Users\dominikreka\Desktop\EgybeEgesz\EgybeEGgesz\obj\Debug\EgybeEGgesz.pdb

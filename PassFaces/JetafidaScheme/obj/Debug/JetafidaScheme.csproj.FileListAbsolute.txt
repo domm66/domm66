@@ -1,0 +1,60 @@
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\bin\Debug\JetafidaScheme.exe.config
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\bin\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\bin\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.AssemblyReference.cache
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.Form1.resources
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.Properties.Resources.resources
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.GenerateResource.cache
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.CoreCompileInputs.cache
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\JetafidaScheme\JetafidaScheme\obj\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe.config
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.AssemblyReference.cache
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Form1.resources
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Properties.Resources.resources
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.GenerateResource.cache
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.CoreCompileInputs.cache
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe.config
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.AssemblyReference.cache
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Form1.resources
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Properties.Resources.resources
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.GenerateResource.cache
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.CoreCompileInputs.cache
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\EgybeEGgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe.config
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.pdb
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.AssemblyReference.cache
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Form1.resources
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Properties.Resources.resources
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.GenerateResource.cache
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.CoreCompileInputs.cache
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.exe
+C:\Users\This dude\source\repos\EgybeEgesz\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.pdb
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe.config
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.exe
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\bin\Debug\JetafidaScheme.pdb
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.AssemblyReference.cache
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Form1.resources
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.Properties.Resources.resources
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.GenerateResource.cache
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.csproj.CoreCompileInputs.cache
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.exe
+C:\Users\This dude\Desktop\Téglás Dominik\PassFaces\JetafidaScheme\obj\Debug\JetafidaScheme.pdb
